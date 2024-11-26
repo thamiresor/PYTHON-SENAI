@@ -1,0 +1,5 @@
+print('Olá, mundo!')
+print('O nome do meu cachorro é Ted')
+print('Minha cor favorita é vinho')
+print('Eu gosto de cantar, dançar, pintar, desenhar...')
+print('Eu quero ser médica pediatra.')
